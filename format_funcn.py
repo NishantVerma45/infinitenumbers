@@ -1,3 +1,4 @@
+# remove quotes before running
 '''
 a = ['jac', 'vein', 'ryan']
 b = ['tech', 'manage', 'production']
@@ -8,3 +9,4 @@ for i in range(0,len(a)):
 '''
 str1 = "my name is {nm}, I am {age}"
 print(str1.format(nm = "Nishant" , age = "18"))
+'''
